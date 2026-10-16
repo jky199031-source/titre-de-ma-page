@@ -1,0 +1,38 @@
+body{
+    background-image: url("image/bruh.png");
+}
+h1 {
+    text-transform: uppercase;
+}
+.box {
+    height:100px;
+    border: solid 6px blue;
+    border-radius: 4px;
+}
+.backGreen {
+ background-color: green;
+}
+.backRed {
+ background-color: red;
+}
+.midWidth {
+    width: 50%;
+}
+.text {
+    font-size: 10px;
+    text-align: center;
+}
+.centerBox {
+    border: black 3px solid;
+    margin: 0 auto;
+}
+.linkBox{
+    display: flex;
+    border: solid 3px black;
+    text-decoration: none;
+    justify-content: space-between;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+}
